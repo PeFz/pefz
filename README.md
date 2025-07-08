@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peracio AKA (PeFz)</h1>
-<h3 align="center">Brazilian dev | Software engineering student | Passionate about tech & innovation</h3>
+<h3 align="center">Software Engineering Student @ UDESC | QA @ Panorama Sistemas | Future Dev in Progress</h3>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +13,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">Languages and Tools I work with:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -38,3 +42,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">🧩 Projects I've worked on:</h3>
+
+- 🏠 **Smart Device Manager** – Java, Swing, JDBC, PostgreSQL  
+  _Prototype to manage smart devices with trigger logic (academic)_
+
+- 💸 **ATM Simulation** – Java, JDBC, PostgreSQL  
+  _Basic terminal banking system with account operations_
+
+- 🛍️ **Product Catalog Web App** – PHP, HTML, CSS, JS  
+  _Simple marketplace with seller contact feature_
+
+---
+
+<h3 align="left">🧠 Currently:</h3>
+
+- 🎓 Studying Software Engineering @ UDESC  
+- 👨‍💻 Working as QA at Panorama Sistemas  
+- 🚀 Learning and building to transition into development roles
