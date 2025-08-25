@@ -44,6 +44,9 @@
 </p>
 
 ---
+ <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeFz&theme=dracula&card_width=200=&langs_count=20" alt="Top Languages" />
+    </td>
 
 <h3 align="left">🧩 Projects I've worked on:</h3>
 
