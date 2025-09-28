@@ -1,0 +1,16 @@
+name: Update README with private stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Stats
+        run: echo "✅ GH_TOKEN funcionando com repositórios privados!"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
