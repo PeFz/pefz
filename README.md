@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peracio AKA (PeFz)</h1>
-<h3 align="center">Software Engineering Student @ UDESC | QA @ Panorama Sistemas | Future Dev in Progress</h3>
+<h3 align="center">Software Engineering Student @ UDESC | Dev Backend </h3>
 
 ---
 
