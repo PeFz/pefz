@@ -61,6 +61,5 @@
 
 <h3 align="left">🧠 Currently:</h3>
 
-- 🎓 Studying Software Engineering @ UDESC  
-- 👨‍💻 Working as QA at Panorama Sistemas  
+- 🎓 Studying Software Engineering @ UDESC   
 - 🚀 Learning and building to transition into development roles
